@@ -12,4 +12,5 @@ void setup()
 void loop()
 {
 //Add your repeated code here
+//här kan man loopa saker och ting och sånt och det är kul och så¨nt och ja
 }
